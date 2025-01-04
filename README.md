@@ -1,5 +1,4 @@
-![👋 Hi, my name is digim25](https://habrastorage.org/webt/ki/ov/vc/kiovvc2smechwlixokgrghcmfqw.jpeg)
-
+![👋 Hi, my name is digim25] [![YUXJe-yapx-ru.png](https://i.postimg.cc/FzD1Yt1r/YUXJe-yapx-ru.png)](https://postimg.cc/8ffTY0h9)
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
