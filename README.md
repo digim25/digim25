@@ -1,4 +1,4 @@
-![👋 Hi, my name is digim25](https://yapx.ru/album/YUXJd)
+![👋 Hi, my name is digim25](https://i.yapx.ru/YUXJe.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
