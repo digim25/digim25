@@ -12,7 +12,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/digim25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">👩‍💻 Hello, fellow programmers! My name is Dmitry, and I really love the Go programming language. I have been working with it for 1.5 years and I am very proud that I can write on it.</h3>**
+ **<h3 align="left">👩‍💻 Hello, fellow programmers! My name is Dmitry, and I really love the Go programming language. I have been working with it for 2 years and I am very proud that I can write on it.</h3>**
 
  **<h3 align="left">Skills</h3>**
 
